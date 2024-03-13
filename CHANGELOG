@@ -1,0 +1,30 @@
+most recent server version: 3.0
+most recent client version: 2.0
+
+3/13/2024 part B:
+    server changes:
+        Updated to Version 3.0
+
+        Added try, except statement for handling bad 
+        disconnects from the client.
+    overall changes:
+        added CHANGELOG, LICENSE, and README files
+
+3/13/2024 part A:
+    server changes:
+        Updated to Version 2.0
+    client changes:
+        Updated to Version 2.0
+    overall changes:
+        I cant remember what I changed from V1 to V2
+
+3/12/2024:
+server changes:
+    Version 1.0*
+client changes:
+    Version 1.0*
+overall changes:
+    Day one
+    * the asterisk means there were technically
+    versions before V 1.0, but I am too lazy to
+    rewrite the first version which was really bad
