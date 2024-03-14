@@ -1,6 +1,16 @@
 most recent server version: 3.0
 most recent client version: 2.0
 
+3/13/2024 part C:
+    server changes:
+        updated to Version 4.0
+    client changes:
+        updated to Version 3.0
+    overall changes:
+        Implemented encryption using the Cryptography
+        library with fernet. A custom password can be
+        set when the server is started.
+
 3/13/2024 part B:
     server changes:
         Updated to Version 3.0
